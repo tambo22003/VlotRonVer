@@ -1,0 +1,11 @@
+
+{
+  "galaxy.meteor.com": {
+    "env": {
+      "ROOT_URL":"http://vlotdev.eu.meteorapp.com",
+      "DEPLOY_HOSTNAME":"galaxy.meteor.com",
+      "MONGO_URL":"mongodb://admindev:Go4itgir1@ds145009.mlab.com:45009/vlotdev",
+      "MAIL_URL":"smtp://alanlo.hq%40gmail.com:Go4itgir1@smtp.gmail.com:465"
+    }
+  }
+}
